@@ -1,2 +1,2 @@
 # TestRepo
-Just for learning some skilks at GitHub
+* Just for learning some skilks at GitHub
